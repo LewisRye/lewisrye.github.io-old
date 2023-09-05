@@ -1,6 +1,6 @@
 # change the followings to match your GitHub username and repo name
 baseurl: "/" # the name of your github repo
-url: "https://lewisrye.github.io" # the url of your github pages
+url: "https://lewisrye.tech" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Lewis Rye"
@@ -33,7 +33,7 @@ github: https://github.com/lewisrye
 linkedin: https://linkedin.com/in/lewis-rye/
 medium: false
 google-scholar: false
-email: false
+email: lewis@lewisrye.tech
 
 # footer information
 footer-msg: "created with Tailpages"
