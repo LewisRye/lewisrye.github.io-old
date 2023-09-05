@@ -9,7 +9,7 @@ permalink: projects
 ## <a href="https://github.com/lewisrye/inventory-system" target="_blank">C# Inventory System</a>
 ### Author
 
-This was my first project, it is a simple inventory management system for a small business. Everything needed to keep track of new stock with aesthetic graphing. Still in development.
+My first project, it is a simple inventory management system for a small business. Everything needed to keep track of new stock with aesthetic graphing. Currently developing an API for the backend of this program so that SQL queries are not performed directly inside the application.
 <img class="mx-auto shadow rounded w-3/4" src="/assets/img/inventory.png">
 View this project on <a href="https://github.com/lewisrye/inventory-system" target="_blank">GitHub</a>.
 
