@@ -14,6 +14,14 @@ My first project, it is a simple inventory management system for a small busines
 <img class="mx-auto shadow rounded w-3/4" src="/assets/img/inventory.png">
 View this project on <a href="https://github.com/lewisrye/inventory-system" target="_blank">GitHub</a>.
 
+## <a href="https://github.com/lewisrye/cpp-chess" target="_blank">C++ Chess Game</a>
+### Collaborator
+
+Made during a HackSussex workshop with me, <a href="https://github.com/axelgumiit" target="_blank">Axel</a> and <a href="https://github.com/koushicsumathikumar" target="_blank">Koushic</a>.
+
+<img class="mx-auto shadow rounded w-3/4" src="/assets/img/chess.png">
+View this project on <a href="https://github.com/lewisrye/cpp-chess" target="_blank">GitHub</a>.
+
 ## <a href="https://github.com/lewisrye/chat-app" target="_blank">Java Chat App</a>
 ### Author
 
