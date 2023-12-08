@@ -17,7 +17,7 @@ View this project on <a href="https://github.com/lewisrye/inventory-system" targ
 ## <a href="https://github.com/lewisrye/cpp-chess" target="_blank">C++ Chess Game</a>
 ### Collaborator
 
-Made during a HackSussex workshop with me, <a href="https://github.com/axelgumiit" target="_blank">Axel</a> and <a href="https://github.com/koushicsumathikumar" target="_blank">Koushic</a>.
+Made during a HackSussex workshop by me, <a href="https://github.com/axelgumiit" target="_blank">Axel</a> and <a href="https://github.com/koushicsumathikumar" target="_blank">Koushic</a>. An interactive chess game with a UI. This game is fully functional at the moment, just need to implement sounds and special moves.
 
 <img class="mx-auto shadow rounded w-3/4" src="/assets/img/chess.png">
 View this project on <a href="https://github.com/lewisrye/cpp-chess" target="_blank">GitHub</a>.
